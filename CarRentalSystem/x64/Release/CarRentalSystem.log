@@ -1,0 +1,4 @@
+﻿  CarRentalSystem.cpp
+D:\CPP Project\CarRentalSystem\CarRentalSystem\CarRentalSystem.cpp(23,2): error C2059: syntax error: '}'
+D:\CPP Project\CarRentalSystem\CarRentalSystem\CarRentalSystem.cpp(28,2): error C2065: 'login': undeclared identifier
+D:\CPP Project\CarRentalSystem\CarRentalSystem\CarRentalSystem.cpp(30,2): error C3861: 'login': identifier not found
